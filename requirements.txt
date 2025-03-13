@@ -1,0 +1,14 @@
+fastapi[standard]
+black 
+autoflake 
+isort 
+vulture
+uvicorn
+pinecone[grpc]
+python-dotenv
+pinecone-text
+pydantic-settings
+pydantic
+aiohttp
+aiofiles
+httpx
